@@ -1,7 +1,9 @@
-# Servicios cognitivos y despliegue con Integración Continua en http://35.189.219.42/cognitive-services-sebas
+# Servicios cognitivos y despliegue con Integración Continua
+
 
 Utiliza servicios cognitivos (Análisis de imagen) de Azure
 
+[Ver el resultado link](http://35.189.219.42/cognitive-services-sebas)
 
 ## Creado por
 
