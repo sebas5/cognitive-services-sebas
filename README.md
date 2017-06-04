@@ -13,3 +13,5 @@ Despliegue mediante hooks de github, se despliaga al realizar un commit a este r
 Sebastián Bono Vargas.
 
 * Sesión 04 - Máster Ingeniería de Informática - Computación en la Nube: Servicios y Aplicaciones
+
+## Revisado por @ualjjcanada
